@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Weather Prueb1</string>
+    <string name="main_error_server">Error con el servidor</string>
+    <string name="main_current_weather_title">Current Weather:</string>
+    <string name="main_forecast_weather_title">Weather Forecast:</string>
+
+    <string name="weather_temp">%.2f°C</string>
+    <string name="weather_dt">Hour: %s</string>
+    <string name="weather_humidity">Humidity: %d%%</string>
+    <string name="weather_pop">Pop: %d%%</string>
+    <string name="main_error_empty_forecast">Pronóstico no disponible.</string>
+</resources>
